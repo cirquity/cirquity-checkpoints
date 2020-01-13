@@ -3,7 +3,7 @@
 ### How To Sync Quickly
 ##### In versions 0.3.1+ you can sync a fresh chain from 0 much quicker by loading "checkpoints" with your daemon. 
 
-- Download the latest checkpoints.csv here https://raw.githubusercontent.com/cirquity/cirquity-checkpoints/master/checkpoints.csv
+- Download the latest [checkpoints.csv](https://raw.githubusercontent.com/cirquity/cirquity-checkpoints/master/checkpoints.csv)
 - Place checkpoints.csv in the same folder as your cirquityd daemon
 - Run cirquityd with checkpoints added like this: 
 
